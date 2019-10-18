@@ -267,7 +267,7 @@ parameters:
   displayName: RocketChat Image
   description: The RocketChat image tag to use for this deployment
   required: true
-  value: 0.59.1
+  value: latest
 - name: MONGODB_ADMIN_PASSWORD
   displayName: MongoDB Admin Password
   description: Password for the database admin user.
